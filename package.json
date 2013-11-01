@@ -1,0 +1,25 @@
+{
+  "name": "html-extract",
+  "description": "HTML data extraction",
+  "version": "0.0.1",
+  "author": "Shallker Wang <imshallker@gmail.com>",
+  "main": "index.js",
+  "keywords": [
+    "html-extract"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shallker-wang/html-extract.git"  
+  },
+  "bugs": {
+    "url": "https://github.com/shallker-wang/html-extract/issues"
+  },
+  "dependencies": {
+    "cheerio": "*"
+  },
+  "devDependencies": {
+    "simple-test": "*"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
